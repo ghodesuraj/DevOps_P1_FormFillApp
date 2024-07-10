@@ -29,6 +29,10 @@
     <input type="text" placeholder="Enter PAN Number" name="PAN" id="PAN" required>
     <br>
 
+    <label for="name"><b>Phone No.</b></label>
+    <input type="number" placeholder="Enter Phone No." name="phone" id="phone" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
