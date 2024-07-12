@@ -9,12 +9,16 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="mothersname"><b>Mother's Name::</b></label>
+    <label for="mothersname"><b>Mother's Name:</b></label>
     <input type="text" placeholder="Enter Mother's Name" name="mothersname" id="mothersname" required>
     <br>
 
-    <label for="fathersname"><b>Father's Name::</b></label>
+    <label for="fathersname"><b>Father's Name:</b></label>
     <input type="text" placeholder="Enter Father's Name" name="fathersname" id="fathersname" required>
+    <br>
+
+    <label for="brothersname"><b>Brother's Name:</b></label>
+    <input type="text" placeholder="Enter Brother's Name" name="brothersname" id="brothersname" required>
     <br>
 
     <label for="email"><b>Email:</b></label>
